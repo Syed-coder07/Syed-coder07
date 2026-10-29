@@ -41,21 +41,6 @@ Building practical Python applications to strengthen problem-solving and develop
 Data & Analytics
 Working with data processing, visualization, SQL, and machine learning workflows.
 
-My Development Philosophy
-┌───────────────────────────────────────────────┐
-│                                               │
-│        💡 Learn something new                 │
-│                    ↓                          │
-│        🛠️ Build something useful              │
-│                    ↓                          │
-│        🧪 Experiment & Fail                   │
-│                    ↓                          │
-│        📚 Learn from mistakes                 │
-│                    ↓                          │
-│        🚀 Build something better              │
-│                                               │
-└───────────────────────────────────────────────┘
-
 "Consistency beats perfection." 🚀
 
 ⚡ Fun Fact
